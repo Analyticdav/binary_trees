@@ -47,4 +47,8 @@ Write a function that counts the nodes with at least 1 child in a binary tree.
 Task 14. Balance factor
 Write a function that measures the balance factor of a binary tree.
 
+Task 15. Is full
+Write a function that checks if a binary tree is full.
 
+Task 16. Is perfect
+Write a function that checks if a binary tree is perfect.
