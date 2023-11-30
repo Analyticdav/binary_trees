@@ -52,3 +52,6 @@ Write a function that checks if a binary tree is full.
 
 Task 16. Is perfect
 Write a function that checks if a binary tree is perfect.
+
+Task 17. Sibling
+Write a function that finds the sibling of a node.
