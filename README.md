@@ -38,4 +38,13 @@ Write a function that measures the depth of a node in a binary tree.
 Task 11. Size
 Write a function that measures the size of a binary tree.
 
+Task 12. Leaves
+Write a function that counts the leaves in a binary tree.
+
+Task 13. Nodes
+Write a function that counts the nodes with at least 1 child in a binary tree.
+
+Task 14. Balance factor
+Write a function that measures the balance factor of a binary tree.
+
 
