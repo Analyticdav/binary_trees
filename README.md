@@ -1,3 +1,4 @@
 0x1D. C - Binary trees
 
-This project is done by Priscilla Yartey and David    
+This project is done by Priscilla Yartey and David Akpan.
+    
